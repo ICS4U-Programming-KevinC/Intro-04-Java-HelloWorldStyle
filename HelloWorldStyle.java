@@ -21,6 +21,6 @@ public final class HelloWorldStyle {
     */
     public static void main(String[] args) {
         // Display Hello World! to the console
-        System.out.println("Hello World!");
+        System.out.println("Hello World... with style!");
     }
 }
