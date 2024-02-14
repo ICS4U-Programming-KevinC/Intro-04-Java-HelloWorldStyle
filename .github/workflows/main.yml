@@ -12,7 +12,7 @@ on:
 
 jobs:
   run-linters:
-    name: "GitHub's Super Linter"
+    name: "KRevin's Super Linter"
     runs-on: ubuntu-latest
 
     steps:
