@@ -1,8 +1,2 @@
-/**
-* This is the package-info.java file.
-*
-* @author  Ms Raffin
-* @version 1.0
-* @since   2024-02-12
-*/
+/** This package contains classes related to the ICS4U course introduction. */
 package ca.immaculata.ics4u;
