@@ -4,7 +4,7 @@
 # Run GitHub's Super Linter against code base #
 ###############################################
 
-name: "KRevin's Super Linter"
+name: "Github's Super Linter"
 
 on:
   push:
@@ -12,7 +12,7 @@ on:
 
 jobs:
   run-linters:
-    name: "KRevin's Super Linter"
+    name: "Github's Super Linter"
     runs-on: ubuntu-latest
 
     steps:
